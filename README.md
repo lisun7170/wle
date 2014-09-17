@@ -1,4 +1,4 @@
-Practical Machine Learning
+title Practical Machine Learning
 
 ===
 
