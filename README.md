@@ -1,4 +1,4 @@
 wle
 ===
 
-Weight Lifting Exercise Project for Practical Machine Learning
+* Weight Lifting Exercise Project for Practical Machine Learning
